@@ -4,3 +4,6 @@
 
 # Fennara local AI guidance
 .fennara/
+
+# Temporary files created while Windows DLLs are swapped/reloaded
+*.TMP
