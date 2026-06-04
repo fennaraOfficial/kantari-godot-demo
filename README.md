@@ -14,6 +14,12 @@ This repository is meant to show a real saved Godot project, not a web scene or 
 
 The demo focuses on a playful 3D toy-room style game scene with interactive objects, pickup behavior, a magical yarn ball, and scene/gameplay code generated and iterated inside Godot.
 
+## Video
+
+Watch the Kantari demo:
+
+https://www.youtube.com/watch?v=8y2Ub8pgNSs
+
 ## Why This Demo Matters
 
 Fennara is not built around a huge list of tiny editor commands.
